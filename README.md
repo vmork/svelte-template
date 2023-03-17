@@ -1,3 +1,5 @@
+Mall för Svelte-appar med typescript och scss.
+
 ```bash
 npm install
 npm run dev
